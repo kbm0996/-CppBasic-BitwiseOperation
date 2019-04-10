@@ -165,7 +165,7 @@
 
 ## ▶️ 프로그램 기능
 
-  ![Bytewise Operation](https://github.com/kbm0996/Bitwise-Operations/blob/master/Bytewise%20Operation.jpg?raw=true)
+  ![Bytewise Operation](https://github.com/kbm0996/Practice-BitwiseOperation/blob/master/BytewiseOperation/figure/BytewiseOperation.jpg)
 
  **figure 1. Bytewise Operation*
  
