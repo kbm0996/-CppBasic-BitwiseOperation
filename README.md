@@ -160,3 +160,19 @@
         printf("Output = %d\n",~-12); // Output = 11
         return 0;
     }
+    
+    
+## 📑 구성
+  자세한 내용은 하위 디렉토리 참조
+
+### 💻 Bitwise Operation 
+  >![Bitwise Operation](https://github.com/kbm0996/Practice-BitwiseOperation/blob/master/BitwiseOperation/figure/BitwiseOperation.jpg)
+  
+  **figure 1. Bitwise Operation*
+  
+### 💻 Bytewise Operation
+  >![Bytewise Operation](https://github.com/kbm0996/Practice-BitwiseOperation/blob/master/BytewiseOperation/figure/BytewiseOperation.jpg)
+  
+  **figure 2. Bytewise Operation*
+ 
+### 💻 FindID_NoLoop
